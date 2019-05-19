@@ -1,2 +1,0 @@
-# AngularAstroPages
-Sample Angular app
