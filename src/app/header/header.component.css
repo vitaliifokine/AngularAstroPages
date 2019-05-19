@@ -1,0 +1,22 @@
+h1 {
+    text-align: left;
+    text-decoration: none;
+    font-family: Oswald, sans-serif;
+    font-style: italic;
+    margin: 0;
+    size: 40;
+}
+
+span {
+    size: 40;
+}
+
+p {
+    display: inline;
+    font: italic 0.5em "Oswald", sans-serif;
+    margin: 50px;
+}
+
+h1:hover {
+    color: bisque;
+}
