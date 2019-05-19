@@ -5,7 +5,6 @@ div {
     height: 300;
     width: 280px;
     color: grey;
-    display: block;
     border: 3px solid lightgray;
     display: inline-block;
     margin: 10px;
